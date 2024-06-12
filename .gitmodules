@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/nomikazu-x/nest-next-auth-back.git
+	branch = master
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nomikazu-x/nest-next-auth-front.git
+	branch = master
